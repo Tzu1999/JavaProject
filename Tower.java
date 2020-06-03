@@ -1,3 +1,5 @@
+package Tzu;
+
 public class Tower {
 
 	private int blood = 1000;
